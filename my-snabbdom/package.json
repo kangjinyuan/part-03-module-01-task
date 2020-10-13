@@ -1,0 +1,18 @@
+{
+    "name": "my-snabbdom",
+    "version": "1.0.0",
+    "description": "my-snabbdom",
+    "main": "index.js",
+    "scripts": {
+        "dev": "parcel index.html --open",
+        "build": "parcel build index.html"
+    },
+    "author": "康小源",
+    "license": "MIT",
+    "dependencies": {
+        "snabbdom": "^0.7.4"
+    },
+    "devDependencies": {
+        "parcel-bundler": "^1.12.4"
+    }
+}
